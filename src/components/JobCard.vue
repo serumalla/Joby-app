@@ -23,6 +23,7 @@
 
 <script>
 export default {
+  //Added by Srinivas
   props: ["name", "id"],
   computed: {
     modalId(){
